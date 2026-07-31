@@ -12,7 +12,7 @@ Aerospace Security Assessment — Lockheed Martin case
 
 Threat assessment and security strategy for an aerospace and defence prime.
 
-→ 2025_Security_Aerospace-Security-Assessment-Lockheed-Martin.pdf
+→ Aerospace-and-Security/Aerospace-Security-Assessment-Lockheed-Martin.pdf
 
 ## Aviation Data
 
@@ -20,19 +20,19 @@ Aircraft MRO Database Design
 
 Relational schema (MySQL) for maintenance, repair and overhaul records, with queries for parts and service history.
 
-→ 2025_Aviation-Data_MRO-Database-Design.pdf
+→ Aviation-Data/MRO-Database-Design.pdf
 
 Air Cargo Time-Series Analysis
 
 Forecasting models on air cargo volumes in R, benchmarked against seasonal baselines.
 
-→ 2025_Aviation-Data_Air-Cargo-Time-Series-Analysis.pdf
+→ Aviation-Data/Air-Cargo-Time-Series-Analysis.pdf
 
 ## Analytics
 
 Business Analytics — Final Project
 
-→ 2025_Analytics_Business-Analytics-Final-Project.pdf
+→ Analytics/Business-Analytics-Final-Project.pdf
 
 ## Geospatial & Remote Sensing
 
@@ -40,29 +40,29 @@ Woolsey Fire (2018) — Impact and Vegetation Recovery
 
 NDVI-based analysis of vegetation health and post-fire recovery in Southern California.
 
-→ 2025_Geospatial_Woolsey-Fire-Impact-Analysis.pdf, 2025_Geospatial_Woolsey-Fire-Vegetation-Recovery-NDVI.pdf
+→ Geospatial-and-Remote-Sensing/Woolsey-Fire-Impact-Analysis.pdf, Geospatial-and-Remote-Sensing/Woolsey-Fire-Vegetation-Recovery-NDVI.jpg, Geospatial-and-Remote-Sensing/Woolsey-Fire-NDVI-Map.jpg
 
 San Diego Airport Noise
 
 Spatial analysis of aircraft noise exposure across surrounding neighbourhoods.
 
-→ 2025_Geospatial_San-Diego-Airport-Noise.pdf
+→ Geospatial-and-Remote-Sensing/San-Diego-Airport-Noise.pdf
 
 Aerial LiDAR Survey — Point Beach State Forest
 
 Point-cloud processing and terrain analysis from aerial LiDAR data.
 
-→ 2025_Geospatial_Aerial-LiDAR-Point-Beach-State-Forest.pdf
+→ Geospatial-and-Remote-Sensing/Aerial-LiDAR-Point-Beach-State-Forest.pdf
 
 Pisque River Dam — Site Analysis and ModelBuilder Workflow
 
 Suitability analysis and an automated ArcGIS ModelBuilder workflow.
 
-→ 2025_Geospatial_Pisque-River-Dam-Site-Analysis.pdf, 2025_Geospatial_Pisque-River-Dam-ModelBuilder.pdf
+→ Geospatial-and-Remote-Sensing/Pisque-River-Dam-Site-Analysis.pdf, Geospatial-and-Remote-Sensing/Pisque-River-Dam-ModelBuilder.pdf
 
 GIS Analysis
 
-→ 2025_Geospatial_GIS-Analysis.pdf
+→ Geospatial-and-Remote-Sensing/GIS-Analysis.pdf
 
 ## Research
 
@@ -70,7 +70,7 @@ SAGE Research Project — Earth Observation
 
 Geospatial and remote-sensing analyses in Python, R and GIS for the SAGE project at SDSU Research Foundation.
 
-→ 2025_Research_SAGE-Project-Presentation.pdf
+→ Research/SAGE-Project-Presentation.pdf
 
 ## Tools
 
